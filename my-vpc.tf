@@ -1,3 +1,5 @@
+provider "aws" {
+}
 #This is VPC code
 
 resource "aws_vpc" "my-vpc" {
